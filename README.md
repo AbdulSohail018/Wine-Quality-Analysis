@@ -128,6 +128,4 @@ For questions or feedback, please open an issue in the repository.
 
 Made with ❤️ for Wine Enthusiasts
 
-[Documentation](docs/) • [Report Bug](issues/) • [Request Feature](issues/)
-
 </div>
