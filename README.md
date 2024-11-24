@@ -9,8 +9,6 @@
 
 *A data-driven approach to wine quality assessment combining physicochemical testing and sensory evaluation*
 
-[Objective](#objective) • [Dashboards](#tableau-dashboards) • [Code](#code-files) • [Datasets](#datasets)
-
 </div>
 
 ## 🎯 Objective
